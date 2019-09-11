@@ -1,6 +1,5 @@
 # currency
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/b/b5/Shopee-logo.jpg "currency")
 
 Hello. currency here is a repository for check global currency. I use Vue and yarn.
 
